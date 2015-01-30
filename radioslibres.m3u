@@ -11,7 +11,6 @@ http://streaming.radiopolis.org:8000/radiopolisevilla.ogg
 http://tesla.eldialdigital.com:6000/
 #EXTINF:0,radiotopo
 http://giss.tv:8000/radiotopo.mp3
-http://giss.tv:8000/RadioKras.mp3
 #EXTINF:0,Radio Almaina
 http://192.99.35.215:5076/stream.mp3?1422376471960.mp3
 #EXTINF:0,Radio QK (asturias) 
@@ -22,7 +21,6 @@ http://ondametadona.net:8000/radio-utopia
 http://www.porticoluna.org:8000/contrabanda
 #EXTINF:0, Boca radio
 http://srv0410.radiostreaming.es:8009/;
-#EXTINF:0, Radio 90 
+#EXTINF:0, Radio Pinsania
 http://stream.giss.tv:8000/r90.mp3
-#EXTINF:0, Radio Pinsania 
-http://stream.giss.tv:8000/r90.mp3
+
